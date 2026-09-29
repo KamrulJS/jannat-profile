@@ -113,7 +113,7 @@ export default function ProjectModal({
               <div className="grid grid--3">
                 <div className="modal-spec-card">
                   <span className="modal-spec-label">Typography Scale</span>
-                  <span className="modal-spec-val">Satoshi + Open Sans</span>
+                  <span className="modal-spec-val">Barlow + Open Sans</span>
                 </div>
                 <div className="modal-spec-card">
                   <span className="modal-spec-label">Design Tokens</span>
