@@ -163,6 +163,39 @@
   pointer-events: none;
 }
 
+.hero-section__float-tag {
+  position: absolute;
+  z-index: 10;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.625rem 1rem;
+  border-radius: var(--radius-full);
+  background: rgba(15, 17, 21, 0.85);
+  border: 1px solid var(--color-border);
+  backdrop-filter: blur(12px);
+  box-shadow: var(--shadow-card);
+  font-family: var(--font-mono);
+  font-size: var(--fs-xs);
+  color: var(--color-text-primary);
+}
+
+.hero-section__float-tag--left {
+  top: 35%;
+  left: 5%;
+}
+
+.hero-section__float-tag--right {
+  top: 45%;
+  right: 5%;
+}
+
+@media (max-width: 1024px) {
+  .hero-section__float-tag {
+    display: none;
+  }
+}
+
 .hero-section__badge-wrapper {
   display: flex;
   justify-content: center;
