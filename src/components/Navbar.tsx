@@ -35,7 +35,7 @@ export default function Navbar({ onOpenDiscovery }: NavbarProps) {
       <div className="navbar__container">
         
         {/* Monogram / Brand */}
-        <a href="#" className="navbar__brand">
+        <a href="/" className="navbar__brand">
           <div className="navbar__monogram-border">
             <div className="navbar__monogram-inner">
               <span className="text-gradient-gold">JF</span>

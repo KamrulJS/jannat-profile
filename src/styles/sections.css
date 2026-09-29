@@ -631,7 +631,7 @@
 .tech-card__progress-fill {
   height: 100%;
   width: var(--proficiency, 0%);
-  background: linear-gradient(90deg, var(--color-gold), var(--color-rose));
+  background: #E89F8E;
   border-radius: var(--radius-full);
 }
 
@@ -644,6 +644,11 @@
   color: var(--color-text-muted);
   padding-top: 0.75rem;
   border-top: 1px solid var(--color-border);
+}
+
+p.tech-card__sublabel {
+    font-size: 14px !important;
+    line-height: 1.5em;
 }
 
 /* ==========================================================================
