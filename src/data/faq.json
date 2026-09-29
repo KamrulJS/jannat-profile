@@ -1,0 +1,27 @@
+[
+  {
+    "category": "Handoff & Workflow",
+    "question": "How do you guarantee 100% Figma-to-WordPress precision?",
+    "answer": "Unlike traditional agencies where a designer hands off flat images to a developer who eyeball-codes it, I handle both sides. I build custom design tokens (spacing, typography scales, color variables) directly in Figma and translate them 1:1 into CSS variables and custom WordPress builder tokens."
+  },
+  {
+    "category": "Performance & Security",
+    "question": "Will my WordPress website slow down over time or feel bloated?",
+    "answer": "No. I enforce a strict zero-bloat standard. I do not install heavy off-the-shelf themes or unnecessary plugins. I rely on clean custom PHP, lightweight builders like Bricks or Elementor tuned with ACF Pro, WebP image pipelines, and server-level Redis caching to guarantee 95+ Core Web Vitals."
+  },
+  {
+    "category": "Client Editing",
+    "question": "Can my team edit content without breaking the design layout?",
+    "answer": "Absolutely! I set up custom Advanced Custom Fields (ACF Pro) and Gutenberg block structures. Your team simply fills in intuitive form fields, text boxes, and image uploaders—the design system enforces fonts, alignment, and responsiveness automatically."
+  },
+  {
+    "category": "Timeline & Pricing",
+    "question": "What is the typical turnaround time for a custom project?",
+    "answer": "Single conversion landing pages take 5 to 7 business days. Full business web platforms (up to 8 pages) take 10 to 14 days. Complex WooCommerce stores or dynamic web apps take 18 to 21 days."
+  },
+  {
+    "category": "Maintenance",
+    "question": "Do you offer post-launch support and security maintenance?",
+    "answer": "Yes. Every project includes a minimum of 7 to 60 days of complimentary priority post-launch support. I also offer optional ongoing monthly maintenance plans covering core updates, automated daily backups, security monitoring, and speed audits."
+  }
+]

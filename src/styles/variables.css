@@ -1,0 +1,66 @@
+:root {
+  /* Color Palette - Dark Obsidian Design System */
+  --color-bg-dark: #0F1115;
+  --color-bg-[#0F1115]: #0B0C0E;
+  --color-surface: rgba(255, 255, 255, 0.035);
+  --color-surface-hover: rgba(255, 255, 255, 0.06);
+  --color-surface-active: rgba(255, 255, 255, 0.09);
+  
+  /* Glowing Borders & Outlines */
+  --color-border: rgba(255, 255, 255, 0.08);
+  --color-border-hover: rgba(229, 196, 148, 0.3);
+  --color-border-accent: rgba(232, 153, 141, 0.3);
+  --color-border-[#10B981]: rgba(16, 185, 129, 0.3);
+
+  /* Brand Accents */
+  --color-gold: #E5C494;
+  --color-rose: #E8998D;
+  --color-mint: #10B981;
+  --color-mint-bg: rgba(16, 185, 129, 0.12);
+  
+  /* Text Colors */
+  --color-text-primary: #F3F4F6;
+  --color-text-secondary: #9CA3AF;
+  --color-text-muted: #6B7280;
+  --color-text-[#0F1115]: #0F1115;
+
+  /* Typography */
+  --font-heading: 'Satoshi', sans-serif;
+  --font-body: 'Open Sans', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  /* Font Sizes */
+  --fs-xs: 0.75rem;       /* 12px */
+  --fs-sm: 0.875rem;      /* 14px */
+  --fs-base: 1rem;        /* 16px */
+  --fs-lg: 1.125rem;      /* 18px */
+  --fs-xl: 1.25rem;       /* 20px */
+  --fs-2xl: 1.5rem;       /* 24px */
+  --fs-3xl: 1.875rem;     /* 30px */
+  --fs-4xl: 2.25rem;      /* 36px */
+  --fs-5xl: 3rem;         /* 48px */
+  --fs-6xl: 3.75rem;      /* 60px */
+  --fs-7xl: 4.5rem;       /* 72px */
+
+  /* Border Radius */
+  --radius-xs: 4px;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 24px;
+  --radius-full: 9999px;
+
+  /* Layout & Spacing */
+  --container-width: 1280px;
+  --container-width-narrow: 1024px;
+  --section-spacing-desktop: 6rem;
+  --section-spacing-mobile: 4rem;
+
+  /* Transitions & Shadows */
+  --transition-fast: 0.15s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-normal: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-slow: 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+  --shadow-card: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+  --shadow-card-hover: 0 16px 48px 0 rgba(229, 196, 148, 0.12);
+  --shadow-glow-gold: 0 0 30px rgba(229, 196, 148, 0.35);
+}

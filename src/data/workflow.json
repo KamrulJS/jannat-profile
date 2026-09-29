@@ -1,0 +1,58 @@
+[
+  {
+    "step": "01",
+    "title": "Research & Wireframing",
+    "subtitle": "Uncovering user needs & establishing structural blueprints",
+    "description": "Deep-dive discovery call, competitive benchmarking, user journey mapping, and low-fidelity wireframing to lock down layout architecture before any visual design begins.",
+    "deliverables": [
+      "User Persona & Journey Maps",
+      "Interactive Low-Fi Wireframes",
+      "Information Architecture (Sitemap)"
+    ],
+    "duration": "3-5 Days",
+    "keyAction": "Interactive Wireframe Approval",
+    "icon": "Compass"
+  },
+  {
+    "step": "02",
+    "title": "High-Fidelity Figma UI",
+    "subtitle": "Crafting polished design systems & responsive prototypes",
+    "description": "Building pixel-perfect UI screens in Figma with auto-layout v5, design tokens, custom typography, dark/light themes, hover states, and smooth clickable prototypes.",
+    "deliverables": [
+      "Figma Design System & Token Library",
+      "Desktop, Tablet & Mobile Screen UI",
+      "Clickable High-Fidelity Prototype"
+    ],
+    "duration": "5-7 Days",
+    "keyAction": "Figma Prototype Sign-Off",
+    "icon": "Layers"
+  },
+  {
+    "step": "03",
+    "title": "Custom WordPress Build",
+    "subtitle": "Zero-bloat coding with modular ACF & dynamic templates",
+    "description": "Developing custom WordPress themes/modules, setting up custom post types, dynamic ACF fields, custom Gutenberg blocks, and WooCommerce integration with zero handoff friction.",
+    "deliverables": [
+      "Clean Modular WordPress Theme",
+      "ACF Pro Dynamic Backend Structure",
+      "Responsive Cross-Browser Tested Site"
+    ],
+    "duration": "7-10 Days",
+    "keyAction": "Staging Server Review & Feedback",
+    "icon": "Code"
+  },
+  {
+    "step": "04",
+    "title": "Speed Optimization & Launch",
+    "subtitle": "Fine-tuning Core Web Vitals, security & client handoff",
+    "description": "Compressing webp assets, server-side caching, Cloudflare CDN integration, security hardening, SEO metadata setup, and a custom Loom video walkthrough for your team.",
+    "deliverables": [
+      "99+ Core Web Vitals Speed Report",
+      "Security Hardening & Backup Setup",
+      "Loom Video Handoff & Admin Guide"
+    ],
+    "duration": "2-3 Days",
+    "keyAction": "Live Domain Migration & Launch",
+    "icon": "Rocket"
+  }
+]

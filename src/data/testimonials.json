@@ -1,0 +1,42 @@
+[
+  {
+    "id": "t1",
+    "clientName": "Sophia Laurent",
+    "role": "Founder & Creative Director",
+    "company": "Aura Luxe Paris",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=300",
+    "rating": 5,
+    "quote": "Finding someone who truly understands Figma auto-layout and can also code clean custom WordPress templates is almost impossible. Jannat delivered both flawlessly. Our mobile sales jumped 54% within the first month!",
+    "projectType": "E-Commerce Redesign"
+  },
+  {
+    "id": "t2",
+    "clientName": "Marcus Vance",
+    "role": "VP of Product",
+    "company": "NovaVault Tech",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=300",
+    "rating": 5,
+    "quote": "Jannat eliminated our design handoff friction completely. The Figma prototype matched the live Bricks Builder site down to the exact pixel. Plus, our PageSpeed went from 48 to 99! Highest ROI hire we made this year.",
+    "projectType": "SaaS Platform & WP Build"
+  },
+  {
+    "id": "t3",
+    "clientName": "Elena Rostova",
+    "role": "Lead Architect & Partner",
+    "company": "Nexus Studio NY",
+    "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=300",
+    "rating": 5,
+    "quote": "As designers ourselves, we are extremely picky about spacing, micro-interactions, and typography. Jannat exceeded our expectations. The custom ACF backend she built makes editing our portfolio a absolute joy.",
+    "projectType": "Corporate Agency Portfolio"
+  },
+  {
+    "id": "t4",
+    "clientName": "David Chen",
+    "role": "Head of Growth",
+    "company": "Zenith Specialty Coffee",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=300",
+    "rating": 5,
+    "quote": "The WooCommerce subscription builder Jannat architected was pure wizardry. It was intuitive for users on mobile and bulletproof on the server side. She is an elite hybrid designer-engineer.",
+    "projectType": "WooCommerce Subscriptions"
+  }
+]

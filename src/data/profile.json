@@ -1,0 +1,42 @@
+{
+  "name": "Jannat",
+  "fullName": "Jannatul Ferdous",
+  "title": "Lead UI/UX Designer & Senior WordPress Engineer",
+  "role": "UI/UX & WordPress Architect",
+  "positioningStatement": "Bridging the gap between Figma design systems and clean, lightning-fast WordPress builds. Zero handoff friction.",
+  "bio": "Unlike traditional developers who butcher design, or UI designers who cannot code, Jannat owns the entire product lifecycle—from user journey mapping and Figma auto-layout systems to custom WordPress templates, ACF, and WooCommerce architecture.",
+  "coreValue": "Zero handoff friction. Uncompromising design fidelity combined with enterprise-grade WordPress performance, security, and scalability.",
+  "availabilityStatus": "Available for Q4 Projects",
+  "location": "Global / Remote (EST & GMT Friendly)",
+  "email": "hello@jannatdesign.com",
+  "whatsapp": "+1 (555) 382-9102",
+  "socials": {
+    "linkedin": "https://linkedin.com/in/jannat-uiux",
+    "behance": "https://behance.net/jannat-design",
+    "dribbble": "https://dribbble.com/jannat-uiux",
+    "github": "https://github.com/jannat-dev",
+    "figma": "https://figma.com/@jannat_design"
+  },
+  "metrics": [
+    {
+      "label": "Completed Projects",
+      "value": "60+",
+      "subtext": "SaaS, E-Commerce & Corporate"
+    },
+    {
+      "label": "Figma-to-WP Precision",
+      "value": "100%",
+      "subtext": "Pixel-Perfect Guarantee"
+    },
+    {
+      "label": "Years Experience",
+      "value": "4+",
+      "subtext": "Delivering High-Converting Sites"
+    },
+    {
+      "label": "Mobile PageSpeed",
+      "value": "99+",
+      "subtext": "Core Web Vitals Optimized"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "aura-luxe-ecommerce",
+    "title": "Aura Luxe — High-Fashion WooCommerce Store",
+    "client": "Aura Luxe Fashion Paris",
+    "category": "E-Commerce",
+    "thumbnail": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&q=80&w=1200",
+    "figmaPreviewImg": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&q=80&w=1200",
+    "liveSitePreviewImg": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=1200",
+    "summary": "Full Figma UI design system and bespoke WooCommerce build with dynamic attribute swatches, slide-out cart, and sub-second Ajax product filters.",
+    "metricsBadge": "+54% Mobile Revenue",
+    "tags": ["Figma Design System", "WooCommerce", "ACF Pro", "JetSmartFilters"],
+    "challenge": "The client suffered from an outdated theme with 4.2-second load times and a clunky 5-step checkout process that resulted in a 68% cart abandonment rate.",
+    "solution": "Architected a minimalist dark-luxury Figma design system, implemented a 1-page checkout funnel, optimized product image pipelines, and built custom ACF product templates.",
+    "results": [
+      "+54% increase in mobile conversion within 30 days",
+      "Page load speed reduced from 4.2s to 0.6s (99 Core Web Vitals score)",
+      "Cart abandonment dropped by 42% via streamlined slide-out cart"
+    ],
+    "figmaUrl": "https://figma.com/@jannat/aura-luxe-system",
+    "liveUrl": "https://auraluxe-demo.jannatdesign.com",
+    "featured": true
+  },
+  {
+    "id": "novavault-saas-platform",
+    "title": "NovaVault — B2B Cybersecurity SaaS Site",
+    "client": "NovaVault Tech Inc.",
+    "category": "SaaS & Tech",
+    "thumbnail": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=1200",
+    "figmaPreviewImg": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&q=80&w=1200",
+    "liveSitePreviewImg": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=1200",
+    "summary": "Enterprise Figma prototype and lightweight Bricks Builder WordPress site featuring interactive pricing calculators and ROI estimation tools.",
+    "metricsBadge": "+185% Demo Bookings",
+    "tags": ["Figma Auto-Layout", "Bricks Builder", "Custom PHP", "Intercom API"],
+    "challenge": "Complex enterprise software features were hard to understand for visitors, leading to low demo bookings and high bounce rates on product pages.",
+    "solution": "Designed interactive visual feature grids, interactive ROI calculators in Figma, and translated them directly into zero-bloat Bricks Builder WordPress modules.",
+    "results": [
+      "+185% boost in enterprise demo booking requests",
+      "Average time-on-page increased from 1m 12s to 3m 45s",
+      "Seamless client marketing team editing without developer assistance"
+    ],
+    "figmaUrl": "https://figma.com/@jannat/novavault-ui",
+    "liveUrl": "https://novavault-demo.jannatdesign.com",
+    "featured": true
+  },
+  {
+    "id": "nexus-architects-agency",
+    "title": "Nexus Studio — Architectural Portfolio & Magazine",
+    "client": "Nexus Global Architects",
+    "category": "Agency & Corporate",
+    "thumbnail": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200",
+    "figmaPreviewImg": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&q=80&w=1200",
+    "liveSitePreviewImg": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1200",
+    "summary": "Monochrome architectural masterpiece featuring smooth Lenis scrolling, dynamic custom portfolio post types (CPT), and interactive project filter maps.",
+    "metricsBadge": "0.5s Load Time",
+    "tags": ["Figma Wireframes", "Elementor Pro", "Custom CPT", "Lenis Scroll"],
+    "challenge": "High-resolution architectural photography was causing immense lag and poor SEO indexing on their previous Squarespace site.",
+    "solution": "Created an ultra-modern typography-first Figma UI, implemented next-gen WebP/AVIF automated pipelines in WordPress, and built custom dynamic layout loops.",
+    "results": [
+      "0.5s DOM Content Loaded time on 4K displays",
+      "Ranked #1 on Google for 'Bespoke Luxury Architects New York'",
+      "Featured on Awwwards Site of the Day nominee list"
+    ],
+    "figmaUrl": "https://figma.com/@jannat/nexus-studio",
+    "liveUrl": "https://nexus-demo.jannatdesign.com",
+    "featured": true
+  },
+  {
+    "id": "lumina-health-app",
+    "title": "Lumina Care — Telehealth Platform & Patient Hub",
+    "client": "Lumina Health USA",
+    "category": "SaaS & Tech",
+    "thumbnail": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80&w=1200",
+    "figmaPreviewImg": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&q=80&w=1200",
+    "liveSitePreviewImg": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80&w=1200",
+    "summary": "HIPAA-compliant doctor booking system integrated with WordPress Custom Post Types, Calendar sync, and Figma mobile-first UI components.",
+    "metricsBadge": "+94% Consultation Rate",
+    "tags": ["Figma Design Tokens", "WordPress Custom DB", "ACF Pro", "Cal.com API"],
+    "challenge": "Patients struggled to schedule appointments on mobile, causing over 40% abandoned bookings.",
+    "solution": "Engineered a streamlined 3-step mobile booking funnel in Figma and translated it into a custom WP appointment booking engine.",
+    "results": [
+      "+94% increase in completed online doctor consultations",
+      "Zero mobile UI lag with 100% accessible contrast ratios",
+      "Automated SMS/Email appointment sync"
+    ],
+    "figmaUrl": "https://figma.com/@jannat/lumina-care",
+    "liveUrl": "https://luminacare-demo.jannatdesign.com",
+    "featured": false
+  },
+  {
+    "id": "zenith-coffee-roasters",
+    "title": "Zenith Roast — Artisan Subscription E-Commerce",
+    "client": "Zenith Specialty Coffee",
+    "category": "E-Commerce",
+    "thumbnail": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&q=80&w=1200",
+    "figmaPreviewImg": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&q=80&w=1200",
+    "liveSitePreviewImg": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&q=80&w=1200",
+    "summary": "Warm terracotta aesthetic e-commerce store with recurring coffee bean subscription builder and custom WooCommerce recurring billing.",
+    "metricsBadge": "+310% Recurring MRR",
+    "tags": ["Figma Mobile UI", "WooCommerce Subscriptions", "Stripe API", "Bricks"],
+    "challenge": "Needed a flexible subscription box builder allowing users to choose bean roast, grind size, and delivery frequency seamlessly.",
+    "solution": "Created an interactive step-by-step subscription builder in Figma and developed custom WooCommerce subscription logic with custom ACF fields.",
+    "results": [
+      "+310% monthly recurring revenue (MRR) growth in 6 months",
+      "Over 12,000 active monthly recurring coffee subscribers",
+      "100% automated recurring invoice generation"
+    ],
+    "figmaUrl": "https://figma.com/@jannat/zenith-roast",
+    "liveUrl": "https://zenithroast-demo.jannatdesign.com",
+    "featured": false
+  },
+  {
+    "id": "vertex-capital-advisors",
+    "title": "Vertex Capital — Financial Advisory & Investment Hub",
+    "client": "Vertex Group London",
+    "category": "Agency & Corporate",
+    "thumbnail": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=1200",
+    "figmaPreviewImg": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&q=80&w=1200",
+    "liveSitePreviewImg": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=1200",
+    "summary": "Sophisticated gold & obsidian corporate portal with secure investor report downloads, ACF options pages, and multi-language WPML setup.",
+    "metricsBadge": "+62% High-Net Lead Form",
+    "tags": ["Figma Dark UI", "WordPress Multisite", "WPML", "ACF Flexible Content"],
+    "challenge": "Outdated corporate website looked untrustworthy to high-net-worth investors and failed mobile security audits.",
+    "solution": "Redesigned with executive champagne gold accents in Figma and built a secure, encrypted client document download hub in WordPress.",
+    "results": [
+      "+62% increase in high-net-worth inquiry form submissions",
+      "Passed ISO 27001 web security audit with 100% compliance",
+      "Bilingual English/Arabic dynamic translation setup"
+    ],
+    "figmaUrl": "https://figma.com/@jannat/vertex-capital",
+    "liveUrl": "https://vertex-demo.jannatdesign.com",
+    "featured": false
+  }
+]

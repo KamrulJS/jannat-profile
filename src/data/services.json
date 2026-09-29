@@ -1,0 +1,66 @@
+[
+  {
+    "id": "uiux-design-systems",
+    "icon": "Figma",
+    "title": "UI/UX & Design Systems",
+    "tagline": "Architecting intuitive user journeys & scalable design components",
+    "description": "Transforming complex product ideas into ultra-slick Figma design systems complete with auto-layout variants, interactive micro-prototypes, dark/light design tokens, and multi-breakpoint responsive grids.",
+    "features": [
+      "User Research & Information Architecture",
+      "Multi-device Figma Design Systems & Variables",
+      "Interactive High-Fidelity Prototypes",
+      "Design Token Libraries & Component Specs",
+      "UX Micro-Interaction & Motion Design"
+    ],
+    "tools": ["Figma", "FigJam", "Adobe XD", "Tokens Studio"],
+    "highlightMetric": "100% Component Reusability"
+  },
+  {
+    "id": "pixel-perfect-wordpress",
+    "icon": "Code2",
+    "title": "Pixel-Perfect WordPress Development",
+    "tagline": "Translating Figma layouts into lightning-fast, modular WordPress sites",
+    "description": "No clunky bloat. Building bespoke WordPress solutions using custom PHP templates, Elementor Pro or Bricks Builder, Advanced Custom Fields (ACF Pro), and clean Custom Post Types (CPT) for ultimate client editability.",
+    "features": [
+      "Bespoke WordPress Theme & Module Development",
+      "Bricks Builder / Elementor Pro Mastery",
+      "ACF Pro & Custom Post Type (CPT) Architecture",
+      "Custom PHP Snippets & Hooks Integration",
+      "Intuitive Gutenberg & Client Backend Dashboards"
+    ],
+    "tools": ["WordPress", "ACF Pro", "Elementor Pro", "Bricks Builder", "PHP"],
+    "highlightMetric": "0.4s DOM Render Time"
+  },
+  {
+    "id": "ecommerce-conversion",
+    "icon": "ShoppingBag",
+    "title": "E-Commerce & Conversion Architecture",
+    "tagline": "High-converting WooCommerce stores engineered for revenue growth",
+    "description": "Designing and building conversion-driven e-commerce platforms. From frictionless custom checkout funnels and 1-click upsells to automated order processing, payment gateways, and cart abandonment rescue.",
+    "features": [
+      "Custom WooCommerce Storefront Design & Build",
+      "Customized Checkout Funnels (CartFlows / FunnelKit)",
+      "Stripe, PayPal, Klarna & Apple Pay Gateways",
+      "JetSmartFilters & Dynamic Ajax Product Search",
+      "Cart Abandonment & Dynamic Coupon Engines"
+    ],
+    "tools": ["WooCommerce", "CartFlows", "JetEngine", "Stripe API"],
+    "highlightMetric": "+38% Average Checkout Conversion"
+  },
+  {
+    "id": "performance-security-seo",
+    "icon": "Zap",
+    "title": "Performance, Security & Technical SEO",
+    "tagline": "Achieving sub-second load times & bulletproof site defense",
+    "description": "Optimizing every line of code for maximum speed and search visibility. Eliminating render-blocking assets, configuring server-level caching, hardening security against threats, and implementing structured JSON-LD schema.",
+    "features": [
+      "95+ Google Core Web Vitals Optimization",
+      "Asset Minification, Deferral & Critical CSS",
+      "Redis / Memcached & Server-Level Caching Setup",
+      "Enterprise WordPress Hardening & Firewall Setup",
+      "Structured Schema Markup & Technical SEO Audit"
+    ],
+    "tools": ["WP Rocket", "Perfmatters", "Cloudflare Enterprise", "RankMath"],
+    "highlightMetric": "99+ Mobile PageSpeed Score"
+  }
+]

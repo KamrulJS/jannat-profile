@@ -1,0 +1,63 @@
+[
+  {
+    "id": "starter-landing",
+    "name": "The High-Converting Landing Page",
+    "tagline": "Ideal for product launches, ad campaigns & single-offer conversion funnels.",
+    "price": "$1,450",
+    "period": "one-time",
+    "popular": false,
+    "idealFor": "Startups & Single Product Launch",
+    "turnaround": "5-7 Days Delivery",
+    "features": [
+      "Bespoke High-Fidelity Figma UI Layout",
+      "Elementor Pro or Bricks WordPress Build",
+      "100% Mobile & Tablet Responsive Optimization",
+      "Lead Capture Form & CRM Webhook Integration",
+      "Basic On-Page SEO & Meta Tags Setup",
+      "95+ Google PageSpeed Guarantee",
+      "7 Days Post-Launch Bug Fix Support"
+    ],
+    "ctaText": "Select Starter Package"
+  },
+  {
+    "id": "full-business-platform",
+    "name": "Full Business Platform",
+    "tagline": "Complete digital presence with tailored design system & dynamic content architecture.",
+    "price": "$2,950",
+    "period": "one-time",
+    "popular": true,
+    "idealFor": "Agencies, B2B SaaS & Growing Brands",
+    "turnaround": "10-14 Days Delivery",
+    "features": [
+      "Up to 8 Custom Designed & Developed Pages",
+      "Full Figma Design System & Token Assets",
+      "Advanced Custom Fields (ACF Pro) Backend Setup",
+      "Custom Post Types (CPT) for Blog & Case Studies",
+      "Sub-Second Asset & Database Optimization",
+      "Security Hardening & Automated Backup Configuration",
+      "Personalized Loom Video Training Walkthrough",
+      "30 Days Priority Developer Support"
+    ],
+    "ctaText": "Claim Most Popular Package"
+  },
+  {
+    "id": "ecommerce-dynamic-app",
+    "name": "Custom E-Commerce & Dynamic Web App",
+    "tagline": "Advanced web shop, booking engine, or membership portal engineered for scale.",
+    "price": "$4,850",
+    "period": "one-time",
+    "popular": false,
+    "idealFor": "High-Volume Stores & Dynamic Portals",
+    "turnaround": "18-21 Days Delivery",
+    "features": [
+      "Full WooCommerce Store or Custom Portal",
+      "Tailored 1-Click Upsell & Cart Abandonment Funnels",
+      "JetSmartFilters Dynamic Ajax Search & Filter Engine",
+      "Stripe, PayPal, Klarna & Apple Pay Gateways",
+      "Custom Subscription / Booking / Membership Logic",
+      "Enterprise Cloudflare & Server Caching Tuning",
+      "60 Days VIP Priority Developer Support & Audit"
+    ],
+    "ctaText": "Build Custom E-Commerce"
+  }
+]

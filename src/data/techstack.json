@@ -1,0 +1,140 @@
+[
+  {
+    "category": "Design Systems & UI",
+    "items": [
+      {
+        "name": "Figma",
+        "sublabel": "Auto-layout v5, Component Variants, Design Variables",
+        "proficiency": 98,
+        "highlight": true
+      },
+      {
+        "name": "Adobe XD",
+        "sublabel": "Wireframing & Vector Micro-Animations",
+        "proficiency": 92,
+        "highlight": false
+      },
+      {
+        "name": "FigJam",
+        "sublabel": "UX Mapping, Sitemaps & User Flow Diagrams",
+        "proficiency": 95,
+        "highlight": false
+      }
+    ]
+  },
+  {
+    "category": "Core CMS & Architecture",
+    "items": [
+      {
+        "name": "WordPress Core",
+        "sublabel": "Bespoke Theme Dev, Custom Rest API, Hooks & Filters",
+        "proficiency": 98,
+        "highlight": true
+      },
+      {
+        "name": "WP Multisite",
+        "sublabel": "Multi-region & Multi-brand Network Administration",
+        "proficiency": 90,
+        "highlight": false
+      },
+      {
+        "name": "Security Hardening",
+        "sublabel": "2FA, XML-RPC Disable, Rate Limiting, Cloudflare WAF",
+        "proficiency": 96,
+        "highlight": false
+      }
+    ]
+  },
+  {
+    "category": "Dynamic Builders & Frameworks",
+    "items": [
+      {
+        "name": "Elementor Pro",
+        "sublabel": "Custom Dynamic Tags, Loop Item Templates, Custom CSS",
+        "proficiency": 99,
+        "highlight": true
+      },
+      {
+        "name": "Bricks Builder",
+        "sublabel": "Ultra-Clean CSS Grid Layouts, Vue Engine, Zero Bloat",
+        "proficiency": 96,
+        "highlight": true
+      },
+      {
+        "name": "Crocoblock / JetEngine",
+        "sublabel": "Dynamic Listing Items, Ajax Filters, Relations",
+        "proficiency": 94,
+        "highlight": false
+      }
+    ]
+  },
+  {
+    "category": "Custom Backend & PHP",
+    "items": [
+      {
+        "name": "ACF Pro",
+        "sublabel": "Repeater Fields, Flexible Content Blocks, Options Pages",
+        "proficiency": 99,
+        "highlight": true
+      },
+      {
+        "name": "Custom Post Types (CPT)",
+        "sublabel": "Bespoke Database Schema & Dynamic Taxonomies",
+        "proficiency": 98,
+        "highlight": false
+      },
+      {
+        "name": "Custom PHP Snippets",
+        "sublabel": "Action/Filter Hooks, Custom Shortcodes, REST Endpoints",
+        "proficiency": 95,
+        "highlight": false
+      }
+    ]
+  },
+  {
+    "category": "Frontend Technologies",
+    "items": [
+      {
+        "name": "HTML5 & Semantic Markup",
+        "sublabel": "Accessible WCAG 2.1 AAA Compliant Standards",
+        "proficiency": 99,
+        "highlight": false
+      },
+      {
+        "name": "CSS3 / Tailwind CSS",
+        "sublabel": "Custom CSS Variables, Keyframes, Flexbox & Grid",
+        "proficiency": 96,
+        "highlight": true
+      },
+      {
+        "name": "JavaScript ES6+",
+        "sublabel": "DOM Manipulation, Ajax Fetches, Intersection Observers",
+        "proficiency": 92,
+        "highlight": false
+      }
+    ]
+  },
+  {
+    "category": "E-Commerce & Funnels",
+    "items": [
+      {
+        "name": "WooCommerce Architecture",
+        "sublabel": "Product Schema, Variable Swatches, Custom Cart Logic",
+        "proficiency": 97,
+        "highlight": true
+      },
+      {
+        "name": "CartFlows & Funnels",
+        "sublabel": "Order Bumps, 1-Click Upsells & A/B Split Testing",
+        "proficiency": 94,
+        "highlight": false
+      },
+      {
+        "name": "Stripe & Gateway Integrations",
+        "sublabel": "Secure Webhooks, Subscriptions & Multi-currency",
+        "proficiency": 95,
+        "highlight": false
+      }
+    ]
+  }
+]
