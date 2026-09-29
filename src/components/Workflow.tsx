@@ -60,12 +60,12 @@ export default function Workflow() {
                 className={`workflow__step-btn ${isActive ? 'workflow__step-btn--active' : ''}`}
               >
                 <div className="workflow__step-btn-header">
-                  <span className={`font-mono-code ${isActive ? 'text-gold-xs' : 'text-muted-xs'}`}>
+                  <span className="workflow__step-btn-label">
                     STEP {item.step}
                   </span>
-                  <Icon className={`icon-lg ${isActive ? 'icon-[#E5C494]' : 'icon-[#6B7280]'}`} />
+                  <Icon className="workflow__step-btn-icon" />
                 </div>
-                <div className={`font-heading ${isActive ? 'text-primary-base' : 'text-secondary-base'}`}>
+                <div className="workflow__step-btn-title">
                   {item.title}
                 </div>
               </button>
@@ -84,26 +84,26 @@ export default function Workflow() {
                   {currentStep.step}
                 </div>
                 <div>
-                  <h3 className="font-heading text-title-2xl">
+                  <h3 className="font-heading font-size-2xl">
                     {currentStep.title}
                   </h3>
-                  <p className="text-subtitle-rose">
+                  <p className="color-rose font-weight-600 font-size-sm">
                     {currentStep.subtitle}
                   </p>
                 </div>
               </div>
 
-              <p className="text-desc-lg">
+              <p className="color-text-secondary font-size-base">
                 {currentStep.description}
               </p>
 
               {/* Deliverables List */}
               <div>
-                <h4 className="form-label mb-2">Key Deliverables & Specs:</h4>
-                <div className="flex-col-gap-2">
+                <h4 className="form-label u-margin-bottom-xs">KEY DELIVERABLES & SPECS:</h4>
+                <div className="workflow-deliverables-list">
                   {currentStep.deliverables.map((del) => (
                     <div key={del} className="workflow-deliverable-item">
-                      <CheckCircle2 className="icon-lg icon-[#E5C494]" />
+                      <CheckCircle2 className="workflow-deliverable-icon" />
                       <span>{del}</span>
                     </div>
                   ))}
@@ -113,10 +113,10 @@ export default function Workflow() {
               {/* Meta */}
               <div className="workflow-meta-row font-mono-code">
                 <div className="workflow-meta-item">
-                  <Clock className="icon-md icon-[#E5C494]" />
+                  <Clock className="workflow-deliverable-icon" />
                   <span>Timeline: {currentStep.duration}</span>
                 </div>
-                <div className="workflow-meta-item text-mint">
+                <div className="workflow-meta-item workflow-meta-item--mint">
                   <Sparkles className="icon-md" />
                   <span>Milestone: {currentStep.keyAction}</span>
                 </div>
@@ -126,36 +126,36 @@ export default function Workflow() {
             {/* Visual Diagram Card */}
             <div className="workflow-node-box">
               <div className="workflow-node-header font-mono-code">
-                <span className="text-muted">PIPELINE NODE VERIFICATION</span>
-                <span className="text-mint font-bold">&bull; ACTIVE</span>
+                <span className="color-text-muted">PIPELINE NODE VERIFICATION</span>
+                <span className="color-mint font-weight-700">&bull; ACTIVE</span>
               </div>
 
               <div className="workflow-node-list">
                 <div className="workflow-node-item font-mono-code">
                   <span>Stage 01: Audit</span>
-                  <span className="text-mint font-bold">COMPLETED</span>
+                  <span className="color-mint font-weight-700">COMPLETED</span>
                 </div>
                 <div className="workflow-node-item font-mono-code">
                   <span>Stage 02: Figma UI</span>
-                  <span className={`font-bold ${activeStepIdx >= 1 ? 'text-mint' : 'text-muted'}`}>
+                  <span className={`font-weight-700 ${activeStepIdx >= 1 ? 'color-mint' : 'color-text-muted'}`}>
                     {activeStepIdx >= 1 ? 'VERIFIED' : 'PENDING'}
                   </span>
                 </div>
                 <div className="workflow-node-item font-mono-code">
                   <span>Stage 03: WP Code</span>
-                  <span className={`font-bold ${activeStepIdx >= 2 ? 'text-mint' : 'text-muted'}`}>
+                  <span className={`font-weight-700 ${activeStepIdx >= 2 ? 'color-mint' : 'color-text-muted'}`}>
                     {activeStepIdx >= 2 ? 'VERIFIED' : 'PENDING'}
                   </span>
                 </div>
                 <div className="workflow-node-item font-mono-code">
                   <span>Stage 04: Launch</span>
-                  <span className={`font-bold ${activeStepIdx === 3 ? 'text-mint' : 'text-muted'}`}>
+                  <span className={`font-weight-700 ${activeStepIdx === 3 ? 'color-mint' : 'color-text-muted'}`}>
                     {activeStepIdx === 3 ? 'LIVE DEPLOY' : 'PENDING'}
                   </span>
                 </div>
               </div>
 
-              <div className="workflow-node-footer font-mono-code">
+              <div className="font-mono-code font-size-xs color-text-muted text-align-center u-padding-top-xs">
                 Client video walkthrough included on completion
               </div>
             </div>
